@@ -1,7 +1,7 @@
-***22.000 EMPRESAS HAN ABIERTO SUS PUERTAS EN ESPAÑA EN 2016***
+#22.000 empresas han abierto sus puertas en España en 2016#
 ===
 
-_1,3 millones de empresas se han dado de baja en la Seguridad Social desde enero hasta noviembre de 2016. Sin embargo, han crecido las altas en el mismo periodo de tiempo_
+##_1,3 millones de empresas se han dado de baja en la Seguridad Social desde enero hasta noviembre de 2016. Sin embargo, han crecido las altas en el mismo periodo de tiempo_##
 
 **15.456** es el número que diferencia a las empresas que se dieron de baja en la Seguridad Social de enero a noviembre de 2016 en España, con las que emprendieron un nuevo negocio y se posicionaron en el mercado. Entraban en el saco en el momento en el que un solo trabajador estaba afiliado en la Seguridad Social y dejaban de formar parte de ello cuando no quedaba ninguno de los empleados cotizando. 
 Durante los meses de verano,_en junio, julio y agosto_, en España han aumentado las bajas de empresas en el registro y han disminuido las empresas que se dieron de alta, por lo que han sido **los peores meses del año para la cotización empresarial**.
@@ -24,14 +24,14 @@ En 2016, **el saldo de cotización de los once meses ha sido de 14,7 millones de
 Como se observa en la gráfica, al igual que en la evolución del alta y las bajas de las empresas, **los meses más destacados y con mayor saldo de cotización son en ambos años en junio y julio**, los meses de verano donde el empleo sube en todas las regiones de España.
 
 _Los sectores con mayor saldo de cotización_, y por lo tanto, con mayor actividad en el país son:
-+	Comercio al por menor, excepto de vehículos motor
-+	Servicios de comidas y bebidas
++	**Comercio al por menor, excepto de vehículos motor**
++	**Servicios de comidas y bebidas**
 +	Comercio al por mayor e intermediarios, a excepción de vehículos de motor 
 +	Actividades de construcción especializada
 +	Transporte terrestre y por tubería
 
 Coinciden también _los sectores con menos saldo acumulado_ en  ambos años:
-+	Extracción de antracita, hulla y lignito
++	**Extracción de antracita, hulla y lignito**
 +	Extracción de crudo de petróleo y gas natural
 +	Industria del tabaco
 +	Coquerías y refino de petróleo
